@@ -1,12 +1,12 @@
 
-#css
+css
 
 cascading style sheets 
 it use for styling the html contant 
 
 we can chang alot of proparities by using css code such as : font color, family , size , background color and alot anthore proparities .
 
-##how to chang color :
+how to chang color :
 You can specify any color in CSS in one of three ways:
 1- rgb values These express colors in terms of how much red, green and blue are used to make it up. For example: rgb(100,100,90)
 
@@ -15,6 +15,8 @@ You can specify any color in CSS in one of three ways:
 We look at these three different ways of specifying colors on the next double-page spread.
 
 ** note : you can change background color in the same way that i mentioned 
-##css3:
+
+
+css3:
 CSS3 has introduced an extra value for RGB colors to  X indicate opacity. It is known as RGBA.
 CSS3 also allows you to specify colors as HSL values,  X with an optional opacity value. It is known as HSLA.
