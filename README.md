@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/tasneemqanaherah/css/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+#css
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+cascading style sheets 
+it use for styling the html contant 
 
-### Markdown
+we can chang alot of proparities by using css code such as : font color, family , size , background color and alot anthore proparities .
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##how to chang color :
+You can specify any color in CSS in one of three ways:
+1- rgb values These express colors in terms of how much red, green and blue are used to make it up. For example: rgb(100,100,90)
 
-```markdown
-Syntax highlighted code block
+2- hex Codes These are six-digit codes that represent the amount of red, green and blue in a color, preceded by a pound or hash # sign. For example: #ee3e80
+3- Color names There are 147 predefined color names that are recognized by browsers. For example: DarkCyan
+We look at these three different ways of specifying colors on the next double-page spread.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tasneemqanaherah/css/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+** note : you can change background color in the same way that i mentioned 
+##css3:
+CSS3 has introduced an extra value for RGB colors to  X indicate opacity. It is known as RGBA.
+CSS3 also allows you to specify colors as HSL values,  X with an optional opacity value. It is known as HSLA.
